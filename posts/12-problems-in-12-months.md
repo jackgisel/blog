@@ -3,7 +3,7 @@ title: 12 problems in 12 months
 publish_date: 2022-11-11
 ---
 
-Howdy. I've been itching to solve problems lately. Itching to try to new technologies. Itching to bring value to others. The hardest part for me is starting and avoiding perfectionism. To combat this, I am going to push myself to ship 12 solutions to 12 problems. I don't have all 12 picked yet, but I am going to pick them out 3 at the start of each quarter.
+Howdy. I've been itching to solve problems lately. Itching to try to new technologies. Itching to bring value to others. The hardest part for me is getting started and avoiding perfectionism. To combat this, I am going to push myself to ship 12 new apps in 12 months. I don't have all 12 picked yet, but I am going to pick them out 3 at the start of each quarter.
 
 ### Where am I starting?
 
