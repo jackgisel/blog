@@ -3,7 +3,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.3.3/blog.tsx";
 blog({
   title: "Jack Gisel",
   author: "Jack Gisel",
-  avatar: "./jg.jpeg",
+  avatar: "./profile.jpg",
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:j@ckgisel.com" },
