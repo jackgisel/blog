@@ -1,5 +1,5 @@
 ---
-title: A few lessons for a software engineer
+title: A few lessons for a new software engineer
 publish_date: 2023-11-13
 ---
 
