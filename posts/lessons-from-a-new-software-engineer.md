@@ -19,7 +19,7 @@ Regardless of how much you think you can be the hero, follow the advice you prob
 
 ## _We_ and _me_
 
-This is a basic rule. If you are ever speaking negatively about something on your team, it's always _we_ never me. If you're the only one to blame, feel free to use _me_. Do not ever place blame on one person, unless it's yourself.
+This is a basic rule. If you are ever speaking negatively about something on your team, it's always _we_ never _them_ or by name. If you're the only one to blame, feel free to use _me_. Do not ever place blame on one person, unless it's yourself.
 
 ## Do the work
 
